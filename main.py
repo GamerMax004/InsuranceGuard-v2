@@ -152,37 +152,37 @@ INSURANCE_TYPES = {
     "Krankenversicherung (Privat)": {
         "price": 10000.00,
         "role": "Krankenversicherung (Privat)",
-        "auszahlung_limit": 50000.00
+        "auszahlung_limit": 30000.00
     },
     "Haftpflichtversicherung": {
-        "price": 3000.00,
+        "price": 10000.00,
         "role": "Haftpflichtversicherung",
-        "auszahlung_limit": 25000.00
+        "auszahlung_limit": 30000.00
     },
     "Hausratversicherung": {
-        "price": 5000.00,
+        "price": 10000.00,
         "role": "Hausratversicherung",
         "auszahlung_limit": 30000.00
     },
     "Kfz-Versicherung": {
-        "price": 3000.00,
+        "price": 7500.00,
         "role": "Kfz-Versicherung",
         "auszahlung_limit": 20000.00
     },
     "Rechtsschutzversicherung": {
-        "price": 6000.00,
+        "price": 5000.00,
         "role": "Rechtsschutzversicherung",
         "auszahlung_limit": 15000.00
     },
     "Berufsunfähigkeitsversicherung": {
-        "price": 6000.00,
+        "price": 10000.00,
         "role": "Berufsunfähigkeitsversicherung",
-        "auszahlung_limit": 40000.00
+        "auszahlung_limit": 30000.00
     },
     "Bußgeldversicherung": {
         "price": 10000.00,
         "role": "Bußgeldversicherung",
-        "auszahlung_limit": 10000.00
+        "auszahlung_limit": 30000.00
     }
 }
 
